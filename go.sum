@@ -107,6 +107,8 @@ github.com/blendle/zapdriver v1.3.1/go.mod h1:mdXfREi6u5MArG4j9fewC+FGnXaBR+T4Ox
 github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b h1:AP/Y7sqYicnjGDfD5VcY4CIfh1hRXBUavxrvELjTiOE=
 github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b/go.mod h1:ac9efd0D1fsDb3EJvhqgXRbFx7bs2wqZ10HQPeU8U/Q=
 github.com/c2h5oh/datasize v0.0.0-20171227191756-4eba002a5eae/go.mod h1:S/7n9copUssQ56c7aAgHqftWO4LTf4xY6CGWt8Bc+3M=
+github.com/cardil/knative-pkg v0.0.0-20220124202246-3471b8f26a8d h1:d6bwfkIosv6Bl8xHB6tpG5tEvMh2g+H5l5kNPuCs5+U=
+github.com/cardil/knative-pkg v0.0.0-20220124202246-3471b8f26a8d/go.mod h1:etVT7Tm8pSDf4RKhGk4r7j/hj3dNBpvT7bO6a6wpahs=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/census-instrumentation/opencensus-proto v0.3.0 h1:t/LhUZLVitR1Ow2YOnduCsavhwFUklBMoGVYUCqmCqk=
 github.com/census-instrumentation/opencensus-proto v0.3.0/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
@@ -1203,8 +1205,6 @@ knative.dev/hack v0.0.0-20220118141833-9b2ed8471e30 h1:UkNpCWCMM5C4AeQ8aTrPTuR/6
 knative.dev/hack v0.0.0-20220118141833-9b2ed8471e30/go.mod h1:PHt8x8yX5Z9pPquBEfIj0X66f8iWkWfR0S/sarACJrI=
 knative.dev/hack/schema v0.0.0-20220118141833-9b2ed8471e30 h1:ECiCxQItfC3ggigwNPP3+WHY94ccDrStua+/jhP+bP8=
 knative.dev/hack/schema v0.0.0-20220118141833-9b2ed8471e30/go.mod h1:ffjwmdcrH5vN3mPhO8RrF2KfNnbHeCE2C60A+2cv3U0=
-knative.dev/pkg v0.0.0-20220118160532-77555ea48cd4 h1:b9aXVrcfM/ajjHE/lGvlJOHZNAR5FF2TOTLWG7eMhzQ=
-knative.dev/pkg v0.0.0-20220118160532-77555ea48cd4/go.mod h1:etVT7Tm8pSDf4RKhGk4r7j/hj3dNBpvT7bO6a6wpahs=
 knative.dev/reconciler-test v0.0.0-20220118183433-c8bfbe66bada h1:YSxoVY3Z2GF8QsNrWlJ8qQlJ6pUXKVsX7xkhY6odOXU=
 knative.dev/reconciler-test v0.0.0-20220118183433-c8bfbe66bada/go.mod h1:XV4cghzCtdASkfUsfMYSnGfGRyd/naDjy9h7Tnae22g=
 pgregory.net/rapid v0.3.3 h1:jCjBsY4ln4Atz78QoBWxUEvAHaFyNDQg9+WU62aCn1U=
